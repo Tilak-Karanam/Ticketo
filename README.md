@@ -1,4 +1,3 @@
-# Ticketo
 # 🎟️ Ticketo: End-to-End Ticketing Database Project
 
 This project demonstrates the complete development lifecycle of a ticketing platform's data architecture, from database design and implementation to analytical querying and dashboard reporting. The system is designed to handle customer bookings for concerts, sports, and events while enforcing business rules and enabling revenue analytics.
