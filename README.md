@@ -38,15 +38,4 @@ This project demonstrates the complete development lifecycle of a ticketing plat
 
 ## 📊 Tableau Dashboard
 
-🔗 [View the Ticketo Revenue Dashboard](Revenue Dashboard.pdf)
-
----
-
-## ⚙️ Technologies Used
-
-- SQL (PostgreSQL/Oracle-compatible syntax)
-- Tableau for data visualization
-- Entity-Relationship modeling
-- Data transformation and aggregation logic
-
----
+🔗 [View the Ticketo Revenue Dashboard](https://public.tableau.com/views/DBMS_17014979820250/Dashboard2)
